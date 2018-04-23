@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BooleanRepresentation", "BooleanRepresentation\BooleanRepresentation.vbproj", "{BD03C234-3FAC-4854-AB04-4DFBFD8F2F10}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD03C234-3FAC-4854-AB04-4DFBFD8F2F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD03C234-3FAC-4854-AB04-4DFBFD8F2F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD03C234-3FAC-4854-AB04-4DFBFD8F2F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD03C234-3FAC-4854-AB04-4DFBFD8F2F10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
