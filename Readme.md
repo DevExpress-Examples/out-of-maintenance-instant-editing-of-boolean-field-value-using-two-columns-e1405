@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/BooleanRepresentation/Default.aspx) (VB: [Default.aspx.vb](./VB/BooleanRepresentation/Default.aspx.vb))
+* [Default.aspx](./CS/BooleanRepresentation/Default.aspx) (VB: [Default.aspx](./VB/BooleanRepresentation/Default.aspx))
 * [Default.aspx.cs](./CS/BooleanRepresentation/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/BooleanRepresentation/Default.aspx.vb))
 <!-- default file list end -->
 # Instant editing of boolean field value using two columns
